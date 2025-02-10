@@ -147,6 +147,10 @@ Configure ODBC to connect to AWS Athena via Power BI in Direct Query mode (See [
 
 </p>
 
+✨PS: This project is for learning purposes, if you have any question, observation or improvement, don't hesitate to contact me, I would love to discuss😊.
+
+🌸Me : Naouar EL BOUMASHOULI😄
+
 
 
 
