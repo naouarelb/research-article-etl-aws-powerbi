@@ -26,7 +26,7 @@ By using a robust data pipeline deployed on AWS, this project enables:
 
 The data comes from the Scopus platform, which catalogs and indexes scientific articles published worldwide.
 
-![scopus logo](Images\scopus.png)
+![scopus logo](Images/scopus.png)
 
 The data file exported from Scopus contains the following attributes:
 • **Authors** (The abbreviated names of the authors contributing to the article, e.g., "Nadif B.")  
