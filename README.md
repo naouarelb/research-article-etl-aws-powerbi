@@ -132,14 +132,20 @@ Configure ODBC to connect to AWS Athena via Power BI in Direct Query mode (See [
 
 **5. Visualize the dashboard:**  
 <p align="center">
-  <img src="Images\Screenshot 2025-02-10 030109.png" alt="Description 1" width="30%">
-  <img src="Images/Screenshot 2025-02-10 030235.png" alt="Description 2" width="30%">
-  <img src="Images/Screenshot 2025-02-10 030433.png" alt="Description 3" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030109.png" alt="Dashboard 1" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030235.png" alt="Dashboard 2" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030433.png" alt="Dashboard 3" width="30%">
 </p>
 <p align="center">
-  <img src="lien_image_4" alt="Description 4" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030448.png" alt="Dashboard 4" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030511.png" alt="Dashboard 5" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030532.png" alt="Dashboard 6" width="30%">
 </p>
+<p align="center">
+  <img src="Images\Screenshot 2025-02-10 030628.png" alt="Dashboard 7" width="30%">
+  <img src="Images\Screenshot 2025-02-10 031837.png" alt="Dashboard 8" width="30%">
 
+</p>
 
 
 
