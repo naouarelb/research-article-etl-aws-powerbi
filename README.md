@@ -24,7 +24,7 @@ By using a robust data pipeline deployed on AWS, this project enables:
 
 ### 3️⃣ DATA
 
-The data comes from the Scopus platform, which catalogs and indexes scientific articles published worldwide.
+The data comes from the Scopus platform, which catalogs and indexes scientific articles published worldwide from 1913 until now.
 
 ![scopus logo](Images/scopus.png)
 
@@ -80,7 +80,7 @@ The data file exported from Scopus contains the following attributes:
 
 My data pipeline is designed to be scalable, secure, and efficient. Here is an overview of the architecture:
 
-![architecture](Images\architecture.png)
+![architecture](Images/architecture.png)
 
 ### 5️⃣ KEY COMPONENTS
 
