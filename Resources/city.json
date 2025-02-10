@@ -1,0 +1,353 @@
+[
+    {
+        "standardized_city": "Casablanca",
+        "variations": ["casablanca", "casa-blanca", "C."]},
+    {
+        "standardized_city": "Rabat",
+        "variations": ["rabat", "Tamesna", "al arjat", "arjat", "alarjat"]
+    },
+    {
+        "standardized_city": "Marrakech",
+        "variations": ["marrakech", "marakesh", "marakech", "marrakech"]
+    },
+    {
+        "standardized_city": "Salé",
+        "variations": ["salé"]
+    },
+    {
+        "standardized_city": "Fez",
+        "variations": ["fes", "fez", "fès"]
+    },
+    {
+        "standardized_city": "Tangier",
+        "variations": ["tangier", "tanger"]
+    },
+    {
+        "standardized_city": "Agadir",
+        "variations": ["agadir", "taghazout", "aït melloul", "ait melloul", "taghazoute", "inzegane"]
+    },
+    {
+        "standardized_city": "Oujda",
+        "variations": ["Oujda"]
+    },
+    {
+        "standardized_city": "Tetouan",
+        "variations": ["tétouan", "tetouan", "Tetuan"]
+    },
+    {
+        "standardized_city": "El Jadida",
+        "variations": ["el jadida", "eljadida", "el-jadida", "al jadida", "aljadida", "al-jadida", "jadida"]
+    },
+    {
+        "standardized_city": "Safi",
+        "variations": ["safi"]
+    },
+    {
+        "standardized_city": "Meknes",
+        "variations": ["meknès", "meknes", "meknés", "méknès"]
+    },
+    {
+        "standardized_city": "Nador",
+        "variations": ["nador"]
+    },
+    {
+        "standardized_city": "Sale",
+        "variations": ["Sale", "Salé"]
+    },
+    {
+        "standardized_city": "Laayoune",
+        "variations": ["laayoune"]
+    },
+    {
+        "standardized_city": "Berkane",
+        "variations": ["Berkane", "Berkan", "Barkane", "Barkan"]
+    },
+    {
+        "standardized_city": "Ouarzazate",
+        "variations": ["ouarzazate"]
+    },
+    {
+        "standardized_city": "Khouribga",
+        "variations": ["khouribga"]
+    },
+    {
+        "standardized_city": "Beni Mellal",
+        "variations": ["beni mellal", "beni-mellal", "béni-mellal", "benimellal", "bén-mellal", "Béni-Mellal"]
+    },
+    {
+        "standardized_city": "Taza",
+        "variations": ["taza"]
+    },
+    {
+        "standardized_city": "Al Hoceïma",
+        "variations": ["al-hoceima", "al hoceima", "al-hoceïma", "al hoceïma", "el-hoceima", "el hoceima", "el-hoceïma", "el hoceïma", "alhucemas"]
+    },
+    {
+        "standardized_city": "Settat",
+        "variations": ["settat"]
+    },
+    {
+        "standardized_city": "Kenitra",
+        "variations": ["kénitra", "kenitra", "Souk El Arbaa", "Sidi Yahya El Gharb"]
+    },
+    {
+        "standardized_city": "Mohammedia",
+        "variations": ["mohammedia", "mohammadia"]
+    },
+    {
+        "standardized_city": "Ifrane",
+        "variations": ["ifrane"]
+    },
+    {
+        "standardized_city": "Guelmim",
+        "variations": ["guelmim", "guelmime"]
+    },
+    {
+        "standardized_city": "Ksar El Kebir",
+        "variations": ["ksar el kebir"]
+    },
+    {
+        "standardized_city": "Dakhla",
+        "variations": ["dakhla"]
+    },
+    {
+        "standardized_city": "Benguerir",
+        "variations": ["benguerir", "ben guerir", "ben-guerir", "Benguérir"]
+    },
+    {
+        "standardized_city": "Jorf Lasfar",
+        "variations": ["jorf lasfar"]
+    },
+    {
+        "standardized_city": "Laayoune",
+        "variations": ["laâyoune", "laayoune", "al aioun sidi mellouk"]
+    },
+    {
+        "standardized_city": "Errachidia",
+        "variations": ["errachidia"]
+    },
+    {
+        "standardized_city": "Essaouira",
+        "variations": ["essaouira"]
+    },
+    {
+        "standardized_city": "Taroudant",
+        "variations": ["taroudant"]
+    },
+    {
+        "standardized_city": "Chefchaouen",
+        "variations": ["chefchaouen"]
+    },
+    {
+        "standardized_city": "Azrou",
+        "variations": ["azrou"]
+    },
+    {
+        "standardized_city": "Larache",
+        "variations": ["larache"]
+    },
+    {
+        "standardized_city": "Tiznit",
+        "variations": ["tiznit"]
+    },
+    {
+        "standardized_city": "Oued Zem",
+        "variations": ["oued zem"]
+    },
+    {
+        "standardized_city": "Berrechid",
+        "variations": ["berrechid"]
+    },
+    {
+        "standardized_city": "Taourirt",
+        "variations": ["taourirt"]
+    },
+    {
+        "standardized_city": "Kelaat Sraghna",
+        "variations": ["el kelaa des sraghna"]
+    },
+    {
+        "standardized_city": "Sidi Slimane",
+        "variations": ["sidi slimane"]
+    },
+    {
+        "standardized_city": "Sidi Kacem",
+        "variations": ["Sidi Kacem"]
+    },
+    {
+        "standardized_city": "Bouznika",
+        "variations": ["bouznika"]
+    },
+    {
+        "standardized_city": "Martil",
+        "variations": ["martil"]
+    },
+    {
+        "standardized_city": "Fnideq",
+        "variations": ["fnideq"]
+    },
+    {
+        "standardized_city": "Al Arjat",
+        "variations": ["al arjat"]
+    },
+    {
+        "standardized_city": "Temara",
+        "variations": ["temara"]
+    },
+    {
+        "standardized_city": "Youssoufia",
+        "variations": ["youssoufia"]
+    },
+    {
+        "standardized_city": "Smara",
+        "variations": ["smara"]
+    },
+    {
+        "standardized_city": "Tan-Tan",
+        "variations": ["tan-tan", "tantan"]
+    },
+    {
+        "standardized_city": "Sidi Ifni",
+        "variations": ["sidi ifni"]
+    },
+    {
+        "standardized_city": "Zagora",
+        "variations": ["zagora"]
+    },
+    {
+        "standardized_city": "Midelt",
+        "variations": ["midelt"]
+    },
+    {
+        "standardized_city": "Asila",
+        "variations": ["asilah", "asila", "assila", "assilah"]
+    },
+    {
+        "standardized_city": "Oued Laou",
+        "variations": ["oued laou"]
+    },
+    {
+        "standardized_city": "Fquih Ben Salah",
+        "variations": ["fquih ben salah"]
+    },
+    {
+        "standardized_city": "Sidi Bennour",
+        "variations": ["sidi bennour"]
+    },
+    {
+        "standardized_city": "Tinghir",
+        "variations": ["tinghir"]
+    },
+    {
+        "standardized_city": "Boujdour",
+        "variations": ["boujdour"]
+    },
+    {
+        "standardized_city": "Guelmim - Oued Noun",
+        "variations": ["guelmim-oued noun"]
+    },
+    {
+        "standardized_city": "Draa-Tafilalet",
+        "variations": ["drâa-tafilalet"]
+    },
+    {
+        "standardized_city": "Aknoul",
+        "variations": ["aknoul"]
+    },
+    {
+        "standardized_city": "Azilal",
+        "variations": ["azilal"]
+    },
+    {
+        "standardized_city": "Chichaoua",
+        "variations": ["chichaoua"]
+    },
+    {
+        "standardized_city": "Demnate",
+        "variations": ["demnate"]
+    },
+    {
+        "standardized_city": "El Hajeb",
+        "variations": ["el hajeb", "el-hajeb"]
+    },
+    {
+        "standardized_city": "Oulmes",
+        "variations": ["oulmes"]
+    },
+    {
+        "standardized_city": "Missour",
+        "variations": ["Missour"]
+    },
+    {
+        "standardized_city": "Boulemane",
+        "variations": ["boulemane"]
+    },
+    {
+        "standardized_city": "Khenifra",
+        "variations": ["khénifra", "khenifra", "khnifra"]
+    },
+    {
+        "standardized_city": "Jerada",
+        "variations": ["jerada"]
+    },
+    {
+        "standardized_city": "Sefrou",
+        "variations": ["sefrou"]
+    },
+    {
+        "standardized_city": "Guercif",
+        "variations": ["guercif"]
+    },
+    {
+        "standardized_city": "Taounate",
+        "variations": ["taounate", "taounat"]
+    },
+    {
+        "standardized_city": "Khemisset",
+        "variations": ["khemisset", "khemissat", "Khmissat", "Khmisset"]
+    },
+    {
+        "standardized_city": "Benslimane",
+        "variations": ["benslimane"]
+    },
+    {
+        "standardized_city": "Ait Ourir",
+        "variations": ["ait ourir", "ait-ourir"]
+    },
+    {
+        "standardized_city": "El Gara",
+        "variations": ["el gara", "elgara"]
+    },
+    {
+        "standardized_city": "Tiflet",
+        "variations": ["tiflet", "ait-ourir"]
+    },
+    {
+        "standardized_city": "Skhirat",
+        "variations": ["skhirat", "ait-ourir"]
+    },
+    {
+        "standardized_city": "Bir Jdid",
+        "variations": ["bir jdid", "ait-ourir"]
+    },
+    {
+        "standardized_city": "Ahfir",
+        "variations": ["ahfir", "ait-ourir"]
+    },
+    {
+        "standardized_city": "Tamensourt",
+        "variations": ["tamensourt", "ait-ourir"]
+    },
+    {
+        "standardized_city": "M'diq",
+        "variations": ["m'diq", "ait-ourir"]
+    },
+    {
+        "standardized_city": "Tarfaya",
+        "variations": ["tarfaya", "terfaya"]
+    },
+    {
+        "standardized_city":"Martil",
+        "variations":"Martil"
+    }
+]

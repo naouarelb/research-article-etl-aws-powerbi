@@ -1,0 +1,1154 @@
+[
+    {
+        "school": "Faculty of Sciences of Tetouan",
+        "university":"Abdelmalek Essaâdi University",
+        "city":"Tetouan",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FS"
+        ]
+        
+    },
+    {
+        "school": "National School of Applied Sciences of Tetouan",
+        "university":"Abdelmalek Essaâdi University",
+        "city":"Tetouan",
+        "variations": [
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ENSA",
+            "ENSAT"
+        ]
+
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Martil",
+        "university": "Abdelmalek Essaâdi University",
+        "city":"Martil",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "FSJES",
+            "FSJESM",
+            "Juridical"
+        ]
+    },
+    {
+        "school": "Higher Normal School (ENS)",
+        "university": "Abdelmalek Essaâdi University",
+        "city":"Martil",
+        "variations": [
+            "Higher Normal School",
+            "Ecole Normale Supérieure",
+            "ENS",
+            "ENSM"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Humanities of Martil",
+        "university": "Abdelmalek Essaâdi University",
+        "city":"Martil",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHM"
+        ]
+    },
+    {
+        "school": "National School of Applied Sciences of Tangier",
+        "university": "Abdelmalek Essaâdi University",
+        "city":"Tangier",
+        "variations": [
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ENSAT",
+            "ENSA"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Tangier",
+        "university": "Abdelmalek Essaâdi University",
+        "city":"Tangier",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGT"
+        ]  
+    },
+    {
+        "school": "Faculty of Sciences and Technology of Tangier",
+        "university":"Abdelmalek Essaâdi University",
+        "city":"Tangier",
+        "variations": [
+            "Techniques",
+            "Technology",
+            "Technique",
+            "FST",
+            "FSTT"
+        ]
+    },
+    {
+        "school": "National School of Applied Sciences of Al Hoceïma",
+        "university":"Abdelmalek Essaâdi University",
+        "city":"Al Hoceïma",
+        "variations": [
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ENSA",
+            "ENSAH"
+        ]
+    },
+    {
+        "school": "Faculty of Sciences and Technology of Al Hoceïma",
+        "university":"Abdelmalek Essaâdi University",
+        "city":"Al Hoceïma",
+        "variations": [
+            "Techniques",
+            "Technology",
+            "Technique",
+            "FST",
+            "FSTH"
+        ]
+    },
+    {
+        "school": "Faculty of Sciences Semlalia",
+        "university": "Cadi Ayyad University",
+        "city" :"Marrakech",
+        "variations":[
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FS"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations":[
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHM"
+        ]
+    },
+    {
+        "school":"Faculty of Juridical, Economic, and Social Sciences of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESM"
+        ]
+    },
+    {
+        "school": "Faculty of Sciences and Technology of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations": [
+            "Faculty of Sciences and Techniques",
+            "Faculty of Sciences and Technology",
+            "FST",
+            "FSTM",
+            "faculté des sciences et techniques"
+        ]
+    },
+    {
+        "school": "Faculty of Medicine and Pharmacy of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations":[
+            "Pharmacy",
+            "FMPO",
+            "FMP",
+            "pharmacie",
+            "medecine"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Essaouira",
+        "university": "Cadi Ayyad University",
+        "city":"Essaouira",
+        "variations": [
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTE"
+        ]
+    },
+    {
+        "school":"National School of Applied Sciences of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations": [
+            "National School of Applied Sciences",
+            "ENSA",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées"
+        ]
+    },
+    {
+        "school" : "National School of Business and Management of Marrakech",
+        "university":"Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations" : [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGM"
+        ]
+    },
+    {
+        "school": "Higher Normal School of Marrakech",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations":[
+            "Higher Normal School",
+            "Ecole Normale Supérieure",
+            "ENS"
+        ]
+    },
+    {
+        "school": "University Center CUKS of Kelaat Sraghna",
+        "university": "Cadi Ayyad University",
+        "city": "Kelaat Sraghna",
+        "variations": [
+            "University Center",
+            "CUKS",
+            "Centre universitaire"
+        ]
+    },
+    {
+        "school": "polydisciplinary Faculty of Safi" ,
+        "university": "Cadi Ayyad University",
+        "city":"Safi",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "FP",
+            "PF"
+        ]
+    },
+    {
+        "school": "National School of Applied Sciences of Safi",
+        "university":"Cadi Ayyad University",
+        "city": "Safi",
+        "variations":[
+            "National School of Applied Sciences",
+            "ENSA",
+            "ENSAS",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées"
+        ]
+    },
+    {
+        "school": "National School of Architecture",
+        "university": "Cadi Ayyad University",
+        "city": "Marrakech",
+        "variations": [
+            "National School of Architecture",
+            "ENAM",
+            "ENA",
+            "École nationale d'architecture",
+            "ecole nationale d'architecture"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Sidi Bennour",
+        "university": "Chouaib Doukkali University",
+        "city":"Sidi Bennour",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHSB"
+        ]
+    },
+    {
+        "school": "Faculty of sciences of El Jadida",
+        "university": "Chouaib Doukkali University",
+        "city": "El Jadida",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FS",
+            "FSJ"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of EL Jadida",
+        "university": "Chouaib Doukkali University",
+        "city": "El Jadida",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESJ"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of El Jadida",
+        "university": "Chouaib Doukkali University",
+        "city": "El Jadida",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGJ"
+        ]
+    },
+    {
+        "school": "The National School of Electricity and Mechanics of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "mechanics",
+            "mecanique",
+            "mécanique",
+            "ENSEM"
+        ]
+    },
+    {
+        "school": "National School of Applied Sciences of El Jadida",
+        "university": "Chouaib Doukkali University",
+        "city": "El jadida",
+        "variations": [
+            "National School of Applied Sciences",
+            "national school of applied sciences",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées",
+            "ENSA",
+            "ENSAJ"
+        ]
+
+    },
+    {
+        "school": "Higher School of Technology of Sidi Bennour",
+        "university": "Chouaib Doukkali University",
+        "city":"Sidi Bennour",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTSB"
+        ]
+    }, 
+    {
+        "school": "polydisciplinary Faculty of Sidi Bennour",
+        "university" :"Chouaib Doukkali University",
+        "city": "Sidi Bennour",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "FP",
+            "PF"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations":[
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "FSJESC",
+            "Juridical"
+        ]
+    },
+    {
+        "school": "Faculty of Medicine and Pharmacy of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "Pharmacy",
+            "FMPO",
+            "FMP",
+            "pharmacie",
+            "medecine"
+        ]
+    },
+    {
+        "school": "Faculty of Dentistry of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "Dentistry",
+            "dentaire",
+            "FMD",
+            "FMDC"
+        ]
+    },
+    {
+        "school": "Faculty of Sciences of Casablanca",
+        "university":"Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FS",
+            "FSC"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations":[
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHC"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTC"
+        ]
+    },
+    {
+        "school": "School of Mechanical Engineering",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "School of Mechanical Engineering",
+            "ENSEM",
+            "Ecole Nationale Supérieure d'Electricité et de Mécanique",
+            "école Nationale Supérieure d'électricité et de Mécanique",
+            "ENSEMC"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGC"
+        ]
+    },
+    {
+        "school": "National higher school of arts and trades of Casablanca",
+        "university": "Hassan II University",
+        "city": "Casablanca",
+        "variations":[
+            "National higher school of arts",
+            "Métiers",
+            "Arts",
+            "arts",
+            "métiers",
+            "ENSAM",
+            "ENSAMC"
+        ]
+    },
+    {
+        "school": "Faculty of sciences of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations":[
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FS",
+            "FSF"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHF"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESF"
+        ]
+    },
+    {
+        "school": "Faculty of sciences and technology of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations":[
+            "Faculty of Sciences and Techniques",
+            "Faculty of Sciences and Technology",
+            "FST",
+            "FSTF",
+            "faculté des sciences et techniques"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations":[
+           "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTF"
+        ]
+    },
+    {
+        "school": "Faculty of Medicine and Pharmacy of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations":[
+            "Pharmacy",
+            "FMPO",
+            "FMP",
+            "pharmacie",
+            "medecine"
+        ]
+    },
+    {
+        "school": "National school of applied sciences of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations":[
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées",
+            "ENSA",
+            "ENSAF"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Fez",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Fez",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGF"
+        ]
+    },
+    {
+        "school": "polydisciplinary Faculty of Taza",
+        "university": "Sidi Mohamed Ben Abdellah University",
+        "city": "Taza",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "FP",
+            "PF"
+        ] 
+    },
+    {
+        "school": "polydisciplinary Faculty of Taroudant",
+        "university": "Ibn Zohr University",
+        "city": "Taroudant",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "PF",
+            "FP",
+            "FPT"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Beni Mellal",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Beni Mellal",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHBM"
+        ]
+    },
+    {
+        "school": "Faculty of sciences and technology of Beni Mellal",
+        "university" : "University Sultan Moulay Slimane",
+        "city": "Beni Mellal",
+        "variations":[
+            "Faculty of Sciences and Techniques",
+            "Faculty of Sciences and Technology",
+            "FST",
+            "FSTBM",
+            "faculté des sciences et techniques"
+        ]
+    },
+    {
+        "school": "National school of applied sciences of Beni Mellal",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Beni Mellal",
+        "variations":[
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées",
+            "ENSA",
+            "ENSABM,"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Beni Mellal",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Beni Mellal",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTBM"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Beni Mellal",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Beni Mellal",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGBM"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Fquih Ben Salah",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Fquih Ben Salah",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTFBS"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Khenifra",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Khenifra",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTFK"
+        ]
+    },
+    {
+        "school": "National school of applied sciences of Khouribga",
+        "university": "University Sultan Moulay Slimane",
+        "city": "Khouribga",
+        "variations":[
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées",
+            "ENSA",
+            "ENSAKH"
+        ]
+    },
+    
+    {
+        "school":"Faculty of sciences of Kenitra",
+        "university": "Ibn Tofail University",
+        "city": "Kenitra",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FSK",
+            "FS"
+        ]
+    },
+    { 
+        "school": "National school of Applied Sciences of Kenitra",
+        "university": "Ibn Tofail University",
+        "city": "Kenitra",
+        "variations": [
+            "National School of Applied Sciences",
+            "école nationale des sciences appliquées",
+            "ecole nationale des sciences appliquées",
+            "ENSA",
+            "ENSAK"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Kenitra",
+        "university": "Ibn Tofail University",
+        "city":"Kenitra",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHK"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Kenitra",
+        "university": "Ibn Tofail University",
+        "city":"Kenitra",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESK"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Kenitra",
+        "university": "Ibn Tofail University",
+        "city":"Kenitra",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGK"
+        ]
+    },
+    {
+        "school": "Higher school of Education and Training of Kenitra",
+        "university": "Ibn Tofail University",
+        "city":"Kenitra",
+        "variations": [
+            "formation",
+            "éducation",
+            "education",
+            "ESEF",
+            "ESEFK"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Kenitra",
+        "university": "Ibn Tofail University",
+        "city": "Kenitra",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTK"
+        ]
+    },
+    {
+        "school": "National Higher School of Chemistry",
+        "university": "Ibn Tofail University",
+        "city": "Kenitra",
+        "variations":[
+            "National Higher School of Chemistry",
+            "National School Supérieure De Chimie",
+            "Ecole nationale supérieure de chimie",
+            "école nationale supérieure de chimie",
+            "ENSCK"
+        ]
+        
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Oujda",
+        "university": "University Mohammed I",
+        "city":"Oujda",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "Faculté des lettres et sciences humaines",
+            "FLSH",
+            "FLSHO"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Oujda",
+        "university": "University Mohammed I",
+        "city":"Oujda",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESO"
+        ]
+    },
+    {
+        "school":"Faculty of sciences of Oujda",
+        "university": "University Mohammed I",
+        "city": "Oujda",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FSO",
+            "FS"
+        ]
+    },
+    {
+        "school": "polydisciplinary Faculty of Nador",
+        "university": "University Mohammed I",
+        "city": "Nador",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "FP",
+            "PF"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Oujda",
+        "university": "University Mohammed I",
+        "city": "Oujda",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTO"
+        ]
+    },
+    {
+        "school": "National school of Applied Sciences of Oujda",
+        "university": "University Mohammed I",
+        "city": "Oujda",
+        "variations": [
+            "National School of Applied Sciences",
+            "sciences appliquées",
+            "sciences appliquées",
+            "ENSA",
+            "ENSAO"
+        ]
+    },
+    {
+        "school": "Faculty of Medicine and Pharmacy of Oujda",
+        "university": "University Mohammed I",
+        "city": "Oujda",
+        "variations":[
+            "Pharmacy",
+            "FMPO",
+            "FMP",
+            "pharmacie",
+            "medecine"
+        ]
+    },
+    {
+        "school": "National School of Business and Management of Oujda",
+        "university": "University Mohammed I",
+        "city":"Oujda",
+        "variations": [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG",
+            "ENCGO"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Nador",
+        "university": "University Mohammed I",
+        "city": "Nador",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTN"
+        ]
+    },
+    {
+        "school": "Higher school of Education and Training of Nador",
+        "university": "University Mohammed I",
+        "city":"Nador",
+        "variations": [
+            "formation",
+            "éducation",
+            "education",
+            "ESEF",
+            "ESEFN"
+        ]
+    },
+    {
+        "school": "National School of Artificial Intelligence and Digital of Berkane",
+        "university": "University Mohammed I",
+        "city":"Berkane",
+        "variations": [
+            "Digital",
+            "Artificial",
+            "Intelligence",
+            "ESEFB"
+        ]
+        
+    },
+    {
+        "school": "Higher School of Technology of Sale",
+        "university": "Mohammed V University",
+        "city": "Sale",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTS"
+        ]
+        
+    },
+    {
+        "school":"Faculty of sciences of Rabat",
+        "university": "Mohammed V University",
+        "city": "Rabat",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FSR",
+            "FS"
+        ]
+    },
+    {
+        "school":"Mohammadia School of Engineering of Rabat",
+        "university": "Mohammed V University",
+        "city": "Rabat",
+        "variations": [
+            "Mohammadia School of Engineering",
+            "École Mohammadia d'ingénieurs",
+            "EMI" 
+        ]
+        
+    },
+    {
+        "school":"National School of Computer Science and Systems Analysis of Rabat",
+        "university": "Mohammed V University",
+        "city": "Rabat",
+        "variations": [
+            "Systems Analysis",
+            "National School of Computer Science and Systems Analysis",
+            "école nationale supérieure d'informatique et d'analyse des systèmes",
+            "ecole nationale supérieure d'informatique et d'analyse des systèmes",
+            "ENSIAS" 
+        ]
+       
+    },
+    {
+        "school":"Faculty of sciences of Meknes",
+        "university": "Moulay Ismail University",
+        "city": "Meknes",
+        "variations": [
+            "Faculty of Sciences",
+            "Faculty of science",
+            "Faculté des sciences",
+            "FSM",
+            "FS"
+        ]
+    },
+    {
+        "school": "Faculty of Letters and Human Sciences of Meknes",
+        "university": "Moulay Ismail University",
+        "city":"Meknes",
+        "variations": [
+            "Human Sciences",
+            "Letters",
+            "Humanities",
+            "lettres",
+            "sciences humaines",
+            "FLSH"
+        ]
+    },
+    {
+        "school": "Faculty of Juridical, Economic, and Social Sciences of Meknes",
+        "university": "Moulay Ismail University",
+        "city":"Meknes",
+        "variations": [
+            "Law",
+            "Economic",
+            "Social Sciences",
+            "juridiques",
+            "economiques",
+            "sociales",
+            "FSJES",
+            "Juridical",
+            "FSJESO"
+        ]
+    },
+    {
+        "school": "Higher Normal School of Technical Education of Mohammedia",
+        "university" : "Hassan II University",
+        "city": "Casablanca",
+        "variations":[
+            "Ecole Normale Supérieure de l'Enseignement Technique de Mohammedia",
+            "Higher Normal School of Technical Education of Mohammedia",
+            "ENSET"
+        ]
+    },
+    {
+        "school": "Faculty of science and technology of Errachidia",
+        "university" : "Moulay Ismail University",
+        "city": "Errachidia",
+        "variations":[
+            "Techniques",
+            "Technology",
+            "Technique",
+            "FST",
+            "FSTER"
+        ]
+    },
+    {
+        "school": "polydisciplinary Faculty of Errachidia",
+        "university": "Moulay Ismail University",
+        "city": "Errachidia",
+        "variations":[
+            "polydisciplinary",
+            "polydisciplinaire",
+            "FP",
+            "PF"
+        ]
+    },
+    {
+        "school": "National higher school of arts and trades of Meknes",
+        "university": "Moulay Ismail University",
+        "city": "Meknes",
+        "variations":[
+            "National higher school of arts",
+            "Métiers",
+            "Arts",
+            "arts",
+            "métiers",
+            "ENSAM",
+            "ENSAMM"
+        ]
+    },
+    {
+        "school": "Higher School of Technology of Meknes",
+        "university": "Moulay Ismail University",
+        "city": "Meknes",
+        "variations":[
+            "Technologie",
+            "techniques",
+            "Technology",
+            "technique",
+            "EST",
+            "ESTM"
+        ]
+    },
+    {
+        "school" : "National School of Business and Management of Meknes",
+        "university":"Moulay Ismail University",
+        "city": "Meknes",
+        "variations" : [
+            "Management",
+            "Commerce",
+            "gestion",
+            "ENCG"
+        ]
+    },
+    
+    {
+        "school": "Higher Normal School of Meknes",
+        "university": "Moulay Ismail University",
+        "city": "Meknes",
+        "variations":[
+            "Higher Normal School",
+            "Ecole Normale Supérieure",
+            "ENS"
+        ]
+    },
+    {
+        "school": " Digital Engineering and Artificial Intelligence Systems High Private School of Casablanca",
+        "university": "Euro-Mediterranean University of Morocco",
+        "city":"Casablanca",
+        "variations": [
+            "Digital",
+            "Artificial",
+            "Intelligence",
+            "EIDIA"
+        ]
+    }
+
+]
+
+
+
+
+
