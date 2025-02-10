@@ -28,7 +28,7 @@ The data comes from the Scopus platform, which catalogs and indexes scientific a
 
 ![scopus logo](Images/scopus.png)
 
-The data file exported from Scopus contains the following attributes:
+The data file exported from Scopus and zipped contains the following attributes:
 • **Authors** (The abbreviated names of the authors contributing to the article, e.g., "Nadif B.")  
 • **Author full names** (The full names of the authors contributing to the article with their IDs, e.g., "Nadif, Bendaoud (59482605100)")  
 • **Author(s) ID** (The IDs of the authors, e.g., "59482605100)  
@@ -132,9 +132,9 @@ Configure ODBC to connect to AWS Athena via Power BI in Direct Query mode (See [
 
 **5. Visualize the dashboard:**  
 <p align="center">
-  <img src="lien_image_1" alt="Description 1" width="30%">
-  <img src="lien_image_2" alt="Description 2" width="30%">
-  <img src="lien_image_3" alt="Description 3" width="30%">
+  <img src="Images\Screenshot 2025-02-10 030109.png" alt="Description 1" width="30%">
+  <img src="Images/Screenshot 2025-02-10 030235.png" alt="Description 2" width="30%">
+  <img src="Images/Screenshot 2025-02-10 030433.png" alt="Description 3" width="30%">
 </p>
 <p align="center">
   <img src="lien_image_4" alt="Description 4" width="30%">
