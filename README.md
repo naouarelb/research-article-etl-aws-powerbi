@@ -115,7 +115,7 @@ My data pipeline is designed to be scalable, secure, and efficient. Here is an o
 
 
 **1. Clone the repository:**
-`git clone https://github.com/votre-utilisateur/votre-projet.git`
+`git clone https://github.com/nwara5/ANALYSIS-OF-SCIENTIFIC-RESEARCH-ARTICLES-IN-MOROCCO-ON-AWS.git `
 
 **2. Configure the AWS account in AWS CLI (Access Key):**
 `aws configure`
